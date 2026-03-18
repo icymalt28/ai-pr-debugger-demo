@@ -102,7 +102,6 @@ This project demonstrates how to build a **fully local, cost-free AI-powered dev
 
 ---
 
-👨‍💻 Author
-Ritika.
+
 Built by **Kia Patil** 🚀
 
