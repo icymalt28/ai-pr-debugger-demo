@@ -68,7 +68,7 @@ node server.js
 Trigger PR analysis:
 
 ```bash
-curl "http://127.0.0.1:3000/analyze-pr?owner=<owner>&repo=<repo>&pr=<number>"
+ curl "http://127.0.0.1:3000/analyze-pr?owner=icymalt28&repo=ai-pr-debugger-demo&pr=1"
 ```
 
 ---
